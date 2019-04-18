@@ -1,0 +1,12 @@
+.container-bis {
+	background-color:  #3F3A42;
+	border: solid black 2px;
+	text-align: center;
+	padding: 2%;
+	margin-top: 2%;
+	float: center;
+	color: white;
+}
+body {
+	background-color: #2C282E;
+}
