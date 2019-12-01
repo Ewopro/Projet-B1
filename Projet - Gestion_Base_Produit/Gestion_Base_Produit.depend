@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1550762431 source:c:\users\srabh\documents\codingbackend\langagec\projet\gestion_base_produit\gestion_file_produits.c
+	"gestion_file_produits.h"
+	"gestion_produits.h"
+
+1550762293 c:\users\srabh\documents\codingbackend\langagec\projet\gestion_base_produit\gestion_file_produits.h
+	"gestion_produits.h"
+
+1550761852 c:\users\srabh\documents\codingbackend\langagec\projet\gestion_base_produit\gestion_produits.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1550761495 source:c:\users\srabh\documents\codingbackend\langagec\projet\gestion_base_produit\gestion_produits.c
+	"gestion_produits.h"
+
+1550762715 source:c:\users\srabh\documents\codingbackend\langagec\projet\gestion_base_produit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_produits.h"
+
+1553593309 source:c:\cours\langage_c_bd\gestion_base_produit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_produits.h"
+
+1553594482 c:\cours\langage_c_bd\gestion_base_produit\gestion_produits.h
+	"structutre_gestion_stock.h"
+
+1553599329 c:\cours\langage_c_bd\gestion_base_produit\structutre_gestion_stock.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1553596189 source:c:\cours\langage_c_bd\gestion_base_produit\gestion_file_produits.c
+	"gestion_file_produits.h"
+	"gestion_produits.h"
+	"structutre_gestion_stock.h"
+
+1553594500 c:\cours\langage_c_bd\gestion_base_produit\gestion_file_produits.h
+	"structutre_gestion_stock.h"
+
+1553597204 source:c:\cours\langage_c_bd\gestion_base_produit\gestion_detail_produit.c
+	"gestion_detail_produit.h"
+
+1553597237 c:\cours\langage_c_bd\gestion_base_produit\gestion_detail_produit.h
+	"structutre_gestion_stock.h"
+
+1553597292 source:c:\cours\langage_c_bd\gestion_base_produit\gestion_file_detail_produit.c
+	"gestion_file_detail_produit.h"
+
+1553597311 c:\cours\langage_c_bd\gestion_base_produit\gestion_file_detail_produit.h
+	"structutre_gestion_stock.h"
+
+1553597121 source:c:\cours\langage_c_bd\gestion_base_produit\gestion_file_fournisseurs.c
+	"gestion_file_fournisseurs.h"
+
+1553175848 c:\cours\langage_c_bd\gestion_base_produit\gestion_file_fournisseurs.h
+	"structutre_gestion_stock.h"
+
+1553596205 source:c:\cours\langage_c_bd\gestion_base_produit\gestion_produits.c
+	"gestion_produits.h"
+
+1553597690 source:c:\cours\langage_c_bd\gestion_base_produit\gestion_fournisseur.c
+	"gestion_fournisseur.h"
+	"structutre_gestion_stock.h"
+
+1553175777 c:\cours\langage_c_bd\gestion_base_produit\gestion_fournisseur.h
+	"structutre_gestion_stock.h"
+
+1553599284 source:c:\cours\langage_c_bd\gestion_base_produit\getion_bd_produit.c
+	"gestion_bd_produit.h"
+	<winsock.h>
+	<mysql.h>
+
+1553598223 c:\cours\langage_c_bd\gestion_base_produit\gestion_bd_produit.h
+	"structutre_gestion_stock.h"
+
+1553600804 source:c:\langagec\gestion_base_produit\gestion_detail_produit.c
+	"gestion_detail_produit.h"
+
+1553600837 c:\langagec\gestion_base_produit\gestion_detail_produit.h
+	"structutre_gestion_stock.h"
+
+1555071943 c:\langagec\gestion_base_produit\structutre_gestion_stock.h
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1555009080 source:c:\langagec\gestion_base_produit\gestion_file_detail_produit.c
+	"gestion_file_detail_produit.h"
+
+1555005712 c:\langagec\gestion_base_produit\gestion_file_detail_produit.h
+	"structutre_gestion_stock.h"
+
+1555009102 source:c:\langagec\gestion_base_produit\gestion_file_fournisseurs.c
+	"gestion_file_fournisseurs.h"
+
+1555009098 c:\langagec\gestion_base_produit\gestion_file_fournisseurs.h
+	"structutre_gestion_stock.h"
+
+1555002304 source:c:\langagec\gestion_base_produit\gestion_file_produits.c
+	"gestion_file_produits.h"
+	"gestion_produits.h"
+	"structutre_gestion_stock.h"
+
+1555003137 c:\langagec\gestion_base_produit\gestion_file_produits.h
+	"structutre_gestion_stock.h"
+
+1553598082 c:\langagec\gestion_base_produit\gestion_produits.h
+	"structutre_gestion_stock.h"
+
+1555009059 source:c:\langagec\gestion_base_produit\gestion_fournisseur.c
+	"gestion_fournisseur.h"
+	"structutre_gestion_stock.h"
+
+1555009066 c:\langagec\gestion_base_produit\gestion_fournisseur.h
+	"structutre_gestion_stock.h"
+
+1555061450 source:c:\langagec\gestion_base_produit\gestion_produits.c
+	"gestion_produits.h"
+
+1555074655 source:c:\langagec\gestion_base_produit\getion_bd_produit.c
+	"gestion_bd_produit.h"
+	<winsock.h>
+	<mysql.h>
+
+1555072558 c:\langagec\gestion_base_produit\gestion_bd_produit.h
+	"structutre_gestion_stock.h"
+
+1555074876 source:c:\langagec\gestion_base_produit\main.c
+	<stdio.h>
+	<stdlib.h>
+	"gestion_produits.h"
+	"gestion_date.h"
+
+1555071815 source:c:\langagec\gestion_base_produit\gestion_date.c
+	"gestion_date.h"
+
+1555011216 c:\langagec\gestion_base_produit\gestion_date.h
+	"structutre_gestion_stock.h"
+
+1555013862 source:c:\langagec\gestion_base_produit\gestion_file_date.c
+	"gestion_date.h"
+	"structutre_gestion_stock.h"
+
+1555061117 source:c:\langagec\gestion_base_produit\gestion_adresse.c
+	"gestion_adresse.h"
+
+1555060557 c:\langagec\gestion_base_produit\gestion_adresse.h
+	"structutre_gestion_stock.h"
+
+1555061683 source:c:\langagec\gestion_base_produit\gestion_file_adresse.c
+	"gestion_adresse.h"
+	"structutre_gestion_stock.h"
+
